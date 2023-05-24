@@ -47,6 +47,14 @@ p {
 
 .sedan-btn {
     color: hsl(31, 77%, 52%);
+    cursor: pointer;
+}
+
+.sedan-btn:hover {
+    color: white;
+    background-color: hsl(31, 77%, 52%);
+    border: 2px solid white;
+    padding: 13px 23px;
 }
 
 .suvs {
@@ -54,9 +62,21 @@ p {
     padding: 25px 40px;
 }
 
+
+
 .suv-btn {
     color: hsl(184, 100%, 22%);
+    cursor: pointer;
 }
+
+
+.suv-btn:hover {
+    color: white;
+    background-color: hsl(184, 100%, 22%);
+    border: 2px solid white;
+    padding: 13px 23px;
+}
+
 
 .luxury {
     background-color: hsl(179, 100%, 13%);
@@ -67,6 +87,14 @@ p {
 
 .lux-btn {
     color: hsl(179, 100%, 13%);
+    cursor: pointer;
+}
+
+.lux-btn:hover {
+    color: white;
+    background-color: hsl(179, 100%, 13%);
+    border: 2px solid white;
+    padding: 13px 23px;
 }
 
 .title {
