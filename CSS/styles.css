@@ -10,6 +10,7 @@
 
 /* Tag Selectors */
 body {
+    background-color: hsl(0, 0%, 95%);
     align-items: center;
     display: flex;
     flex-direction: column;
